@@ -18,6 +18,15 @@ cols = sheet.col_values(2)  # 获取第3列内容
 print(sheet.name, sheet.nrows, sheet.ncols)
 
 print('-------------------------->>>\n')
+
+print('--------------test ssh branch 004------------>>>\n')
+print('--------------test dbhot branch 004------------>>>\n')
+
+print('--------------test 2020.6.2------------>>>\n')
+
+
+
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 
