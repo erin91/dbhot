@@ -19,6 +19,7 @@ print(sheet.name, sheet.nrows, sheet.ncols)
 
 print('-------------------------->>>\n')
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 print('--------------bugfix_dev branch for test------------>>>\n')
@@ -27,6 +28,11 @@ print('--------------bugfix_dev branch for test------------>>>\n')
 print('--------------bugfix_dev branch for test------------>>>\n')
 print('--------------bugfix_dev branch for test------------>>>\n')
 >>>>>>> bugfix_dev
+=======
+print('--------------test bugfix_dev branch 002------------>>>\n')
+print('--------------test bugfix_dev branch 003------------>>>\n')
+
+>>>>>>> dev
 
 
 class RunMain:
